@@ -1,4 +1,4 @@
-![Clean Delivery cover](docs/assets/cover-clean-delivery.png)
+![Clean Delivery banner](docs/assets/clean-delivery-banner-v2.png)
 
 # Clean Delivery
 
@@ -30,7 +30,7 @@ if (Test-Path $skillPath) {
 
 ![起源截图：番茄炒蛋与东坡肉](docs/assets/origin-songkeys.png)
 
-截图内容来自 X 账号 [`@songkeys`](https://x.com/songkeys) 的帖子，发布时间显示为 2026-08-20。具体原帖链接尚未独立确认，这张图作为起源记录收录。
+起源：X 账号 [`@songkeys`](https://x.com/songkeys) 于 2026-08-20 发布的“番茄炒蛋加东坡肉”吐槽。
 
 故事很简单：让 GPT 做一盘番茄炒蛋，它顺手加了东坡肉。被问到“有必要吗”，它认同后把肉去掉。准备提 PR 时，标题出现“番茄炒蛋（无东坡肉）”，注释又花很长篇幅解释这道菜为什么没有东坡肉。
 
@@ -107,7 +107,7 @@ if (Test-Path .\AGENTS.md) {
 
 ## 规则长什么样
 
-![工作记录与最终交付物分流](docs/assets/clean-delivery-flow.png)
+![工作记录与最终交付物分流](docs/assets/clean-delivery-flow-v2.png)
 
 左侧的草稿、候选和删改记录沿着下方路径进入独立工作记录；当前成果沿着主路径进入最终文件。
 
