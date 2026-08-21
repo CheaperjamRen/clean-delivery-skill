@@ -19,12 +19,11 @@
 - [r/codex：Why does Codex constantly over-engineer code and ignore rules in agents.md?](https://www.reddit.com/r/codex/comments/1ve9nxe/why_does_codex_constantly_overengineer_code_and/)：讨论拆小计划、阶段审查、机器可执行约束与负面限制的局限。
 - [r/ClaudeCode：Why AI coding agents spiral](https://www.reddit.com/r/ClaudeCode/comments/1sbxna2/why-ai-coding-agents-spiral-and-how-i-fixed-it/)：把范围护栏、检查点、独立审查和 slop 清理作为长期工作流。
 
-这些讨论主要围绕 coding agent。报告、PPT、办公文件和通用 Agent 的例子来自用户提供的 X 截图、分享讨论和跨场景材料。公开搜索没有稳定返回原帖的可核验链接，因此截图按用户提供的起源材料保留，搜索结果不扩写成原帖事实。
+这些讨论主要围绕 coding agent；仓库把同一类现象延展到报告、PPT、办公文件和通用 Agent。跨场景例子用于帮助读者识别输出形状，研究结论保持在各自来源的范围内。
 
-## 用户提供的两份起源材料
+## 起点
 
-1. [X 账号 `@songkeys`](https://x.com/songkeys) 的截图，2026-08-20，番茄炒蛋与东坡肉的 PR 残留故事；具体原帖链接尚未独立确认，截图由用户提供。
-2. [ChatGPT 分享：AI 仓促性佐证](https://chatgpt.com/share/6a871a9c-f978-83ea-8810-e4dbaa967c5b)：把“先看计划、关键动作停顿、检查非目标后果”提炼成普通用户可用的摩擦点。
+[X 账号 `@songkeys`](https://x.com/songkeys) 的帖子提供了番茄炒蛋与东坡肉的起源画面，发布时间显示为 2026-08-20。具体原帖链接尚未独立确认，截图按起源记录收录。
 
 ## 证据边界
 
